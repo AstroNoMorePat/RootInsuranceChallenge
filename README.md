@@ -6,6 +6,6 @@ TargetedMinimumBids.ipynb walks through my initial exploratory analysis, identif
 
 OptimizedVariableBids.ipynb walks through  a model built around the assumption that increasing a bid price by $2.50 will shift an ad's display rank by one slot. I identify a sequence of random walks that allow an efficient optimization of bid strategies within the framework of the model, and various optimized strategies are then identified and offered as a strategy consideration for management.
 
-RootInsuranceChallengePresentation.pptx is a presentation that highlights the results of my exploratory analysis and briefly walks through the two modeling approaches, including a component of practical recommendations.
+RootInsuranceChallengePresentation.pdf is a presentation that highlights the results of my exploratory analysis and briefly walks through the two modeling approaches, including a component of practical recommendations.
 
-RootInsuranceChallengeExecutiveSummary.docx offers a similar overview in a one-page text format. it also includes printouts of the two specific bid strategies identified for the two models when targeting a 400 policy sales goal.
+RootInsuranceChallengeExecutiveSummary.pdf offers a similar overview in a one-page text format. it also includes printouts of the two specific bid strategies identified for the two models when targeting a 400 policy sales goal.
